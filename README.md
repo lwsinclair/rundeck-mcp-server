@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vanisoul-rundeck-mcp-server-badge.png)](https://mseep.ai/app/vanisoul-rundeck-mcp-server)
+
 # Rundeck MCP Server
 
 This is a Model Context Protocol (MCP) server for interacting with the Rundeck CLI. It provides a set of tools that allow you to perform Rundeck operations with AI without directly interacting with the command line.
